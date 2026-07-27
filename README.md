@@ -21,14 +21,14 @@ This repository contains my Java solutions to LeetCode problems.
 
 ## Languages
 
-- Java ☕
+- Java 
 
 ## Progress
 
 | Difficulty | Solved |
 |------------|---------|
-| Easy | 0 |
-| Medium | 0 |
+| Easy | 2 |
+| Medium | 1 |
 | Hard | 0 |
 
 Last Updated: July 2026
